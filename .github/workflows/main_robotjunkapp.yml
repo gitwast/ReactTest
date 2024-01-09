@@ -53,4 +53,4 @@ jobs:
           app-name: 'RobotJunkApp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_013662B31C8A4D81A46FF5D2D55C5D23 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A04F4A6B7E434AB4A851D126ED7EAD7D }}
